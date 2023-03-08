@@ -41,7 +41,7 @@ Lazy images are loaded only when they are visible in the user's viewport, improv
   <script src="ObserverLinks.js"></script>
   <script>
     const ObserverLinks = new ObserverLinks('#image-list', '.lazy-image', 'image-item', 'image-link', 'fallback.jpg');
-    ObserverLinks.renderImages(lazyImageRenderer.lazyImages);
+    ObserverLinks.renderImages(ObserverLinks.lazyImages);
     ObserverLinks.observeImages();
   </script>
 </body>
