@@ -1,4 +1,4 @@
-# ObserverLinks (Invalid Links Mutation Observer)
+# ObserverLinks
 An asynchronous dynamic link management system based on Mutaton Observer.
 
 The class handles _polymorphic_ responses with a list or JSON of objects with image 
