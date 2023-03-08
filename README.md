@@ -84,5 +84,3 @@ Lazy images are loaded only when they are visible in the user's viewport, improv
   ]
 }
 ```
-
-Based on https://github.com/FA3Io3VF/CheckURLs
