@@ -1,5 +1,5 @@
 # ObserverLinks
-An asynchronous dynamic gallery link.
+An asynchronous dynamic gallery link generator
 
 The class handles _polymorphic_ responses with a list or JSON of objects with image 
 and associated link. The code tries to automatically decide the type of response received. 
